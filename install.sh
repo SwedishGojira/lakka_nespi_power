@@ -15,14 +15,14 @@ cd /storage/
 
 #Step 3) Download this repository with all files needed ----
 
-wget "https://github.com/marcelonovaes/lakka_nespi_power/archive/master.zip"
+wget "https://github.com/swedishgojira/lakka_retroflag_power/archive/master.zip"
 
 #-----------------------------------------------------------
 
 #Step 4) Unpack files --------------------------------------
 
 unzip -o master.zip
-cd lakka_nespi_power-master/
+cd lakka_retroflag_power-master/
 cp -R lib/ /storage/
 mkdir -p /storage/scripts
 cp -R scripts/* /storage/scripts/
