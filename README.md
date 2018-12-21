@@ -22,7 +22,7 @@ Adding the ability of soft shutdown to lakka and the NESPI CASE+ on the Raspberr
 3. ssh into lakka:
 
    ```bash
-   ssh root@YOUR_LAKKA_IP_ADDRESS
+   ssh root@lakka.local
    password: root (if unchanged)
    ```
 
