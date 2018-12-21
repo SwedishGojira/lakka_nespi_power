@@ -5,7 +5,7 @@ Lakka 2.1 + RETROFLAG CASE + Shutdown buttons
 
 
 
-Adding the ability of soft shutdown to lakka and the NESPI CASE+ on the Raspberry Pi 3 B+
+Adding the ability of soft shutdown to lakka and the RETROFLAG CASE+ on the Raspberry Pi 3 B+
 
 
 
