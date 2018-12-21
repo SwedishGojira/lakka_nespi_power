@@ -1,4 +1,4 @@
-# lakka_nespi_power
+# lakka_retroflag_power
 Lakka 2.1 + RETROFLAG CASE + Shutdown buttons
 
 
